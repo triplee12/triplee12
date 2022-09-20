@@ -7,9 +7,9 @@ I'm a passionate software Engineer
 
 ### Find me all around the web:
 <p align="left">
-<a href="https//twitter.com/TripleeO" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ebuka-ejie-9b840911b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://facebook.com/ebuka.ejie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https//twitter.com/TripleeO" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" style="background-color:#1DA1F2" /></a>
+<a href="https://www.linkedin.com/in/ebuka-ejie-9b840911b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" style="background-color:#0A66C2" /></a>
+<a href="https://facebook.com/ebuka.ejie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" style="background-color:#1877F2" /></a>
 </p>
 
 ### Github Stats:
@@ -22,8 +22,6 @@ I'm a passionate software Engineer
 
 ### Github Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=triplee12&theme=onedark)](https://github.com/triplee12/github-profile-trophy)
-
-  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
 
 ### Quote Of The Day:
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/triplee12/github-readme-quotes)
