@@ -3,7 +3,16 @@
 ## Hi there 👋 I'm Ebuka, welcome to my Github page! :smile: :heart_eyes:
 
 ### About Me
-I'm a passionate software Engineer
+
+Highly skilled software engineer with expertise in Python, Node.js, PostgreSQL, MongoDB, JavaScript, and Linux operating systems, along with advanced frameworks like Django, Django REST framework, Flask, and FastAPI. With 5 years of experience, I have demonstrated a deep understanding of programming concepts and the ability to develop and maintain complex software applications.
+
+My proficiency in Python allows me to write efficient and high-performance code that meets clients' needs. My extensive knowledge of databases, including PostgreSQL, MySQL, Redis, and MongoDB, enables me to design, implement, and maintain reliable and scalable database systems.
+
+As a seasoned developer, I have a strong command of JavaScript and understand the intricacies of web development. I have used this knowledge to build dynamic and responsive web applications that have impressed clients and stakeholders alike.
+
+In addition to my programming skills, I have a deep understanding of Linux operating systems. I have used this knowledge to manage servers and deploy applications in various environments.
+
+My dedication to creating high-quality software and my ability to work collaboratively make me an asset to any team. I have a proven track record of delivering projects on time and within budget, and I am always eager to learn new technologies and take on new challenges.
 
 ### Find me all around the web:
 <p align="left">
