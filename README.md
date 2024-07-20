@@ -6,7 +6,7 @@
 
 Highly skilled software engineer with expertise in Python, Node.js, PostgreSQL, MongoDB, JavaScript, and Linux operating systems, along with advanced frameworks like Django, Django REST framework, Flask, and FastAPI. With 5 years of experience, I have demonstrated a deep understanding of programming concepts and the ability to develop and maintain complex software applications.
 
-My proficiency in Python allows me to write efficient and high-performance code that meets clients' needs. My extensive knowledge of databases, including PostgreSQL, MySQL, Redis, and MongoDB, enables me to design, implement, and maintain reliable and scalable database systems.
+My proficiency in Python and NodeJs allows me to write efficient and high-performance code that meets clients' needs. My extensive knowledge of databases, including PostgreSQL, MySQL, Redis, and MongoDB, enables me to design, implement, and maintain reliable and scalable database systems.
 
 As a seasoned developer, I have a strong command of JavaScript and understand the intricacies of web development. I have used this knowledge to build dynamic and responsive web applications that have impressed clients and stakeholders alike.
 
