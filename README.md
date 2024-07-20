@@ -16,9 +16,9 @@ My dedication to creating high-quality software and my ability to work collabora
 
 ### Find me all around the web:
 <p align="left">
-<a href="https://twitter.com/TripleeO" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" style="background-color:#1DA1F2; color:#1DA1F2" /></a>
-<a href="https://www.linkedin.com/in/ebuka-ejie-9b840911b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" style="background-color:#0A66C2; color:#0A66C2" /></a>
-<a href="https://facebook.com/ebuka.ejie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" style="background-color:#1877F2; color:#1877F2" /></a>
+<a href="https://twitter.com/TripleeO" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" style="background-color:#1DA1F2; color:#1DA1F2" /></a>
+<a href="https://www.linkedin.com/in/chukwuebuka-ejie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" style="background-color:#0A66C2; color:#0A66C2" /></a>
+<a href="https://facebook.com/ebuka.ejie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" style="background-color:#1877F2; color:#1877F2" /></a>
 </p>
 
 ### Github Stats:
